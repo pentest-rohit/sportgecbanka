@@ -1,0 +1,35 @@
+#nav {
+    list-style-type: none;
+    margin: 20px;
+    margin-top:10px;
+    margin-top: 20px;
+}
+h4 {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(55, 0, 255);
+    color: rgb(247, 242, 242);
+}
+ul {
+    list-style-type:none;
+    padding: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
+}
+#basic_violations{
+    margin:15px;
+}
+footer {
+  
+    /* margin-top:60%; */
+     font-family: 'Courier New', Courier, monospace;
+     font-variant:normal;
+     font-style: normal;
+     font-size: 100%;
+     color: white;
+     background-color: green;
+     text-align: center;
+ }
+ 
